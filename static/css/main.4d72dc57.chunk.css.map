@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,wBAAiB,CAAjB,qBAAiB,CAAjB,oBAAiB,CAAjB,gBACF,CAEA,EACE,cACF","file":"main.4d72dc57.chunk.css","sourcesContent":["* {\r\n  user-select: none;\r\n}\r\n\r\ni {\r\n  cursor: pointer;\r\n}\r\n"]}
